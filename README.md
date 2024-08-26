@@ -1,1 +1,1 @@
-This is a largely simplified blockchain to demonstrate the simplicity of the concept for my blog post about blockchain at futechblog.com
+This is a largely simplified blockchain to demonstrate the simplicity of the concept for my [blog post](https://medium.com/@futechblog/decentralizing-the-world-with-blockchain-technology-future-technology-blog-f5a2a5315497) about blockchain.
